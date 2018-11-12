@@ -1,2 +1,1 @@
-# vjudge
-vjudge.net
+# acm
